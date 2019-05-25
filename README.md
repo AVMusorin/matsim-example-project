@@ -26,4 +26,7 @@ pieces of the failed attempt in the directory and start over.
 
 ### Import into IntelliJ
 
-... todo ...
+1. fork repository
+2. clone repository `git clone https://github.com/<your-account>/matsim-example-project.git`
+3. Open intelliJ
+4. `Import Project -> choose root project directory -> Import from external model -> maven` 
